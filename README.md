@@ -3,3 +3,4 @@
 Здесь будут располагаться врайтапы с различных CTFов (т.е. - объяснения решений). 
 ## На данный момент имеются:
 - [rootme](https://github.com/YanaGerasimenko/ctf-writeups/tree/main/rootme)
+- [picoCTF](https://github.com/YanaGerasimenko/ctf-writeups/tree/main/picoCTF)
