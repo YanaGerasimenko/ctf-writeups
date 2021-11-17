@@ -1,4 +1,4 @@
-# rootme
+# rootme :octocat:
 ***
 ## In Russian:
 Здесь будут располагаться решенные мной таски по платформе rootme.
