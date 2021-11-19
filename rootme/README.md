@@ -17,4 +17,4 @@
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/first_task.png)
 ### HTTP - User-agent
 Название снова подсказыает нам на то место, куда смотреть. Поэтому мы должны воспользоваться Burp Suite и перехватить запрос с сайта. Теперь мы видим ЭТО:
-![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/first_task.png)
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/2task.png)
