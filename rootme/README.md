@@ -15,7 +15,7 @@
 ### `HTML - Source code`
 Подсказка дается уже в самом название. Нам нужно зайти в код страницы. Попробуем поискать спрятанный флаг (пароль) и наткнемся на ЭТО:
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/first_task.png)
-### HTTP - User-agent
+### `HTTP - User-agent`
 Название снова подсказыает нам на то место, куда смотреть. Поэтому мы должны воспользоваться Burp Suite и перехватить запрос с сайта. Теперь мы видим другой User-Agent (то, с какого браузера мы зашли). Меняем его на "admin":
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/2task.png)
 Форвардим запрос и перезагружаем страницу. Или кидаем его в Repeater и наживаем "Send". Покажу пример с Repeater:
