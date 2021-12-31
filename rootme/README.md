@@ -20,3 +20,5 @@
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/2task.png)
 Форвардим запрос и перезагружаем страницу. Или кидаем его в Repeater и наживаем "Send". Покажу пример с Repeater:
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/2_1task.png)
+
+### `HTTP - User-agent`
