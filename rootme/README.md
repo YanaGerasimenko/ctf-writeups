@@ -28,3 +28,4 @@
 # 
 # 
 ### `Java - Server-side Template Injection`
+Название задания говорит нам о том, что это шаблонная инъекция или же template injection.
