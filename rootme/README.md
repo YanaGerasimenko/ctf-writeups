@@ -1,6 +1,5 @@
 # :computer: rootme :octocat:
-## In Russian:
-Здесь будут располагаться решенные мной таски по платформе rootme.
+Here you can see my solutions of tasks from platform rootme.
 ## Категории:
 - [Web категория](#WEBкатегория)
 
