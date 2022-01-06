@@ -49,4 +49,4 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/device.png)
 
-А теперь просто переводим в sha1, но НЕ ЗАБЫВАЕМ ПЕРЕВЕСТИ В ВЕРХНИЙ РЕГИСТР БУКВЫ MAC АДРЕССА.
+А теперь просто переводим в sha1, но ___НЕ ЗАБЫВАЕМ ПЕРЕВЕСТИ В ВЕРХНИЙ РЕГИСТР БУКВЫ MAC АДРЕССА___.
