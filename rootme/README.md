@@ -42,3 +42,4 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Знание наиболее распространенных сетевых протоколов.
 # 
 # 
+### `DNS - zone transfert`
