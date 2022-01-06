@@ -45,3 +45,4 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `DNS - zone transfert`
+В описании азадания и его названии видно, что мы имеем дело с DNS, а значит хорошей идей будет воспользоваться 'dig' утилитой.
