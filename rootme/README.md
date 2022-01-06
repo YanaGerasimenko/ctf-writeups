@@ -1,5 +1,5 @@
 # :computer: rootme :octocat:
-Here you can see my solutions of tasks from platform rootme.
+Здесь Вы можете увтдеть решения заданйи с платформы rootme.
 ## Категории:
 - [Web категория](#WEBкатегория)
 
