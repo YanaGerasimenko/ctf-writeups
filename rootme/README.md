@@ -47,4 +47,4 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 ### `Bluetooth - Unknown file`
 В описании дается понять, что мы имеем дело с файлом Bluetooth. Воспользовавшись командой "cat", мы можем посмотреть то, что находится внутри файла и увидим расширение BTSnoop. Теперь мы можем воспользоваться Wireshark, так как он поддерживает работу с файлами связанными с Bluetooth. Теперь заходим во вкладку "Wireless" и переходим в "Bluetooth devices".
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/device.png)
-А теперь просто переводим в sha1, но НЕ ЗАБЫВАЕМ ПЕРЕВЕСТИ В ВЕРХНИЙ РЕГИСТР БУКВЫ MAC АДРЕССА.
+А теперь просто переводим в sha1, но `НЕ ЗАБЫВАЕМ ПЕРЕВЕСТИ В ВЕРХНИЙ РЕГИСТР БУКВЫ MAC АДРЕССА`.
