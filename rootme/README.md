@@ -54,6 +54,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 #
 ### `TELNET - authentication`
+Здесь делаем практически такой же алгоритм, что и в предыдущем задании (FTP - authentication). 
 ![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/wire1-2.png)
 #
 #
