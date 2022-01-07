@@ -48,7 +48,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Мы работаем с файлов .pcap, а это означате что мы можем открыть его в Wireshark. По условию нам нужно работать с FTP и найти пароль.
 ![скрин С ftp пакетом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/wire1.png)
 Так что находим самый первый пакет FTP и наживаем TCP-stream.
-![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/wire1.png)
+![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/wire1.png)
 # 
 # 
 ### `Bluetooth - Unknown file`
