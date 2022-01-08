@@ -59,8 +59,13 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `ETHERNET - frame`
-Нам дается .txt файл и открыв его, мы видим то, что это hex'ы. Поэтому открываем любой декодер, в моем случае это CyberShef.
-![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/net_cyber_1.png)
+Нам дается .txt файл и открыв его, мы видим то, что это hex'ы. Поэтому открываем любой декодер, в моем случае это CyberShef. И переводим hex'ы в текст.
+![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/network_cyber_1.png)
+Теперь мы видим кодировку base64, и опять же, просто переводим в обычный текст. Заливаем ответ.
+#
+#
+### `Twitter authentication`
+Здесь нам дается файл расширения .pcap, а значит интуитивно заходим в Wireshark. И видим всго один пакет. Выбираем "follow TCP" и нам открывается такое окно:
 #
 #
 ### `Bluetooth - Unknown file`
