@@ -59,6 +59,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `ETHERNET - frame`
+Нам дается .txt файл и открыв его, мы видим то, что это hex'ы
 #
 #
 ### `Bluetooth - Unknown file`
