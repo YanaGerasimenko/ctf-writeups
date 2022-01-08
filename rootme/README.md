@@ -68,7 +68,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Здесь нам дается файл расширения .pcap, а значит интуитивно заходим в Wireshark. И видим всго один пакет.
 ![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/network_wire_2.png)
 
-Выбираем "follow TCP" и нам открывается такое окно.
+Выбираем "follow TCP" и нам открывается такое окно. Как мы видим, у запроса есть поле авторизации. Копируем текст оттуда и переводим base64 в текст.
 #
 #
 ### `Bluetooth - Unknown file`
