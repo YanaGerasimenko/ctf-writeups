@@ -65,7 +65,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 #
 ### `Twitter authentication`
-Здесь нам дается файл расширения .pcap, а значит интуитивно заходим в Wireshark.
+Здесь нам дается файл расширения .pcap, а значит интуитивно заходим в Wireshark. И видим всго один пакет. Выбираем "follow TCP" и нам открывается такое окно:
 #
 #
 ### `Bluetooth - Unknown file`
