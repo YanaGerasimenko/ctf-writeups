@@ -59,7 +59,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `ETHERNET - frame`
-Нам дается .txt файл и открыв его, мы видим то, что это hex'ы
+Нам дается .txt файл и открыв его, мы видим то, что это hex'ы. Поэтому открываем любой декодер, в моем случае это CyberShef.
+![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/net_cyber_1.png)
 #
 #
 ### `Bluetooth - Unknown file`
