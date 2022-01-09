@@ -35,7 +35,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `PHP - Serialization`
-
+В задании нужно получить доступ админа.
 # 
 # 
 ##
