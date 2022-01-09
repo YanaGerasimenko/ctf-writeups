@@ -46,7 +46,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_3.png)
 
-Тут сразу видно, 
+Тут сразу видно, что это URL кодировка. Время использовать мой любимый "CyberShef". Но давайте разберем структуру этого куки подробнее.
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_4.png)
 # 
 # 
 ##
