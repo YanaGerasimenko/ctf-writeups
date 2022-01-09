@@ -49,7 +49,9 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Тут сразу видно, что это URL кодировка. Время использовать мой любимый "CyberShef". 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_4.png)
 
-Но давайте разберем структуру этого куки подробнее. Во первых нужно отметить то, что "s" означает "size" (размер). 
+Но давайте разберем структуру этого куки подробнее. __Все будет описано в примере ниже.__ Во первых нужно отметить то, что "s" означает "size" (размер). Т.е. - нам нужно изменить это при смене "quest" на "superadmin". Так же последнее значение тоже поменялось, с сигнала "s" на "b", что означает boolean (лог. 1 или 0). Вставляем единицу, т.к. нам нужно true.
+
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_5.png)
 # 
 # 
 ##
