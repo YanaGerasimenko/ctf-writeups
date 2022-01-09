@@ -35,6 +35,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `PHP - Serialization`
+Естественно в этом задании нужно обращать внимание на код, который нам дан (white box).
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser.png)
 
