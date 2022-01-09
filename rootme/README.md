@@ -36,6 +36,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 ### `PHP - Serialization`
 В задании нужно получить доступ админа. Поэтому запомним это и перейдем на страницу задания. Тут по условию вводим данные гостя (guest) и не забываем нажать галочку о том, чтобы нас запомнили, это понадобится для создания нашей сессии. Собственно, сама сессия нужна для того, чтобы переделать ее под данные суперадмина.
+
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser.png)
 # 
 # 
