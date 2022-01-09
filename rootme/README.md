@@ -79,7 +79,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 #
 ### `DNS - zone transfert`
-Здесь мы работаем с DNS, значит в голову приходит команда dig.
+Здесь мы работаем с DNS, а если быть точнее, нам дается хост. Значит в голову приходит команда dig.
 
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/device.png)
 
