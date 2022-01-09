@@ -79,6 +79,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 #
 ### `DNS - zone transfert`
+Здесь мы работаем с DNS.
 
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/device.png)
 
