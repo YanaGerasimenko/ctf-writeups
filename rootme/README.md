@@ -86,3 +86,5 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Здесь мы работаем с DNS, а если быть точнее, нам дается: хост, порт и домен. Значит в голову приходит команда dig.
 
 ![результат команды dig](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/networks_dns.png)
+
+Теперь осталось создать нормальную команду, чтобы извлечь то, что нам нужно. Поэтому предлагаю использовать axfr, которая даст нам расширенную информацию о запрашиваемом домене.
