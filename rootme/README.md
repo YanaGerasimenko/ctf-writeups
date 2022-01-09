@@ -84,3 +84,5 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 ### `DNS - zone transfert`
 Здесь мы работаем с DNS, а если быть точнее, нам дается: хост, порт и домен. Значит в голову приходит команда dig.
+
+![результат команды dig](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/device.png)
