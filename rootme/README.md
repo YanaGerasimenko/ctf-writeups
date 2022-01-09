@@ -42,9 +42,11 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_2.png)
 
-Теперь видим, что мы действительно смогли зайти под данными гостя (guest). Следующим шагом предлагаю перейти в куки, то место, где создалась наша сессия.
+Теперь видим, что мы действительно смогли зайти под данными гостя (guest). Следующим шагом предлагаю перейти в куки, то место, где создалась наша сессия. Если что, утилита называется "EditThisCookie" (та, что на скрине).
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_3.png)
+
+Тут сразу видно, 
 # 
 # 
 ##
