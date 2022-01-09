@@ -37,6 +37,9 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 ##
 ##
 ##
+##
+##
+##
 ## Networks категория
 #### ___Описание заданий с категорий___:
 
@@ -65,7 +68,10 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 #
 ### `Twitter authentication`
-Здесь нам дается файл расширения .pcap, а значит интуитивно заходим в Wireshark. И видим всго один пакет. Выбираем "follow TCP" и нам открывается такое окно:
+Здесь нам дается файл расширения .pcap, а значит интуитивно заходим в Wireshark. И видим всго один пакет.
+![скрин с ответом](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/network_wire_2.png)
+
+Выбираем "follow TCP" и нам открывается такое окно. Как мы видим, у запроса есть поле авторизации. Копируем текст оттуда и переводим base64 в текст.
 #
 #
 ### `Bluetooth - Unknown file`
@@ -74,3 +80,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/device.png)
 
 А теперь просто переводим в sha1, но ___НЕ ЗАБЫВАЕМ ПЕРЕВЕСТИ В ВЕРХНИЙ РЕГИСТР БУКВЫ MAC АДРЕССА___.
+#
+#
+### `DNS - zone transfert`
+Здесь мы работаем с DNS, а если быть точнее, нам дается: хост, порт и домен. Значит в голову приходит команда dig.
