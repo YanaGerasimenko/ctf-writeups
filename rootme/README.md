@@ -60,6 +60,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `JSON Web Token (JWT) - Introduction`
+Нам дается регистрационная страница
 # 
 # 
 ##
