@@ -67,6 +67,23 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Пользуемся моим любимым расширением "EditThisCookie" (то, что на скрине). И теперь пробуем раскопать то, что нам дано.
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_2.png)
+
+Поговорим о структуре jwt токенов. То, что обозначено фиолетовым - base64. Остальная же часть - нам не нужна, отбрасываем. Теперь понимаме, что по заданию нам нужно подменить значения, из-за доступа админа. Так что из первой фиолетовой части убираем шифрование и ставим значение "none", а во второй фиолетовой части меняем значение на "admin", но не забываем перевести все в base64.
+
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_3.png)
+
+
+{"typ":"JWT","alg":"none"} = "eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0="
+
+{"username":"admin"} = "eyJ1c2VybmFtZSI6ImFkbWluIn0="
+
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_4.png)
+
+Убираем знак "=" на конце, так как это лишний хвост. Вот что получилось в итоге.
+
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_5.png)
+
+Сохраняем, перезагружаем и флаг наш :)
 # 
 # 
 ##
