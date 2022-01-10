@@ -59,6 +59,10 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/php_ser_6.png)
 # 
 # 
+### `JSON Web Token (JWT) - Introduction`
+Нам дается регистрационная страница и мы видим опцию "Login as Guest!". Делаем мы это для того, чтобы нам присвоился jwt токен.
+# 
+# 
 ##
 ## 
 ##
