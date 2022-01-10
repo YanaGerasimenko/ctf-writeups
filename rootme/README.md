@@ -64,7 +64,9 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_1.png)
 
-Пользуемся моим любимым расширением "EditThisCookie" (то, что на скрине).
+Пользуемся моим любимым расширением "EditThisCookie" (то, что на скрине). И теперь пробуем раскопать то, что нам дано.
+
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_2.png)
 # 
 # 
 ##
