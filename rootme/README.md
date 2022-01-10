@@ -60,7 +60,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 # 
 # 
 ### `JSON Web Token (JWT) - Introduction`
-Нам дается регистрационная страница
+Нам дается регистрационная страница и мы видим опцию "Login as Guest!". Делаем мы это для того, чтобы нам присвоился jwt токен.
 # 
 # 
 ##
