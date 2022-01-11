@@ -83,7 +83,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_jwt_5.png)
 
-Сохраняем, перезагружаем и флаг наш :)
+Сохраняем, перезагружаем страницу и флаг наш :)
 # 
 # 
 ##
