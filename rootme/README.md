@@ -35,7 +35,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 #
 ### `PHP - Filters`
-Здесь нам нужно получить пароль админа
+Здесь нам нужно получить пароль админа. Тут у нас LFI
 #
 #
 ### `Local File Inclusion`
