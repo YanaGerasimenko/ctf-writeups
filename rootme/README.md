@@ -35,6 +35,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 #
 ### `Local File Inclusion`
+В задании говорится, что нам нужно зайти в секцию админа. 
 # 
 # 
 ### `PHP - Serialization`
