@@ -45,7 +45,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![строка консоли](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_2.png)
 
-Здесь присутствует важная строка - "include(config.php)"; Именно она подсказывает нам, что нужно вместо файла "login.php", вставить "config.php".
+Здесь присутствует важная строка - "include(config.php)"; Именно она подсказывает нам, что нужно вместо файла "login.php", вставить "config.php" (делаем так же, как в прошлый раз). Мы все-таки же получаем строку base64.
 #
 #
 ### `Local File Inclusion`
