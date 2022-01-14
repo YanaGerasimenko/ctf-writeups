@@ -39,6 +39,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 В задании говорится, что нам нужно зайти в секцию админа. А так же то, что уязвимость формата LFI. Перейдя по ссылке на задание, мы видим то, что страница имеет секции, попробуем перейти по ним. И видим что переход осуществляется через параметр. Так же видим файл index.html, который находится в открытом доступе как и остальные.
 
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_1.png)
+
+
 # 
 # 
 ### `PHP - Serialization`
