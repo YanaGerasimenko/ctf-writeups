@@ -38,6 +38,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 Здесь нам нужно получить пароль админа. Тут у нас LFI, но не обычный, а с фильтром (об этом нам говорит название задания). Нам нужен php filter.
 
 https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась этим сайтом и пэйлоадом оттуда.
+
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_1.png)
 #
 #
 ### `Local File Inclusion`
