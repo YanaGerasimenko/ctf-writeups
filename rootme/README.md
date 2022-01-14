@@ -36,7 +36,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 ### `Local File Inclusion`
 
-В задании говорится, что нам нужно зайти в секцию админа. А так же то, что уязвимость формата LFI.
+В задании говорится, что нам нужно зайти в секцию админа. А так же то, что уязвимость формата LFI. Перейдя по ссылке на задание, мы видим то, что страница имеет секции, попробуем перейти по ним.
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_1.png)
 # 
 # 
