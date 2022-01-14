@@ -34,6 +34,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 --тут позже допишу--
 #
 #
+### `Local File Inclusion`
 # 
 # 
 ### `PHP - Serialization`
