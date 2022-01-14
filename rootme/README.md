@@ -40,6 +40,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась этим сайтом и пэйлоадом оттуда.
 
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_1.png)
+
+Теперь у нас есть содержимое файла, но в формате base64.
 #
 #
 ### `Local File Inclusion`
