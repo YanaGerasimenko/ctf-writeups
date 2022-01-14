@@ -64,6 +64,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_3.png)
 
+Теперь мы видим ".passwd".
+
 # 
 # 
 ### `PHP - Serialization`
