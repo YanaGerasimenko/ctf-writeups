@@ -44,7 +44,9 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_2.png)
 
-У нас появился файл "index.html", попробуем перейти в этот файл и поищим что-то похожее на флаг.
+У нас появился файл "index.html", попробуем перейти в этот файл и поищим что-то похожее на флаг. А вот и он.
+
+![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_3.png)
 
 # 
 # 
