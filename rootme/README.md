@@ -40,7 +40,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_1.png)
 
-
+Так как это LFI, можно попытаться постаивть в параметр слово "admin"
 # 
 # 
 ### `PHP - Serialization`
