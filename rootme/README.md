@@ -41,7 +41,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_1.png)
 
-Теперь у нас есть содержимое файла, но в формате base64.
+Теперь у нас есть содержимое файла, но в формате base64. В этот раз покажу как раскодировать строку через консоль.
 #
 #
 ### `Local File Inclusion`
