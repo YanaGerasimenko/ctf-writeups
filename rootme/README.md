@@ -36,6 +36,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 #
 ### `PHP - Filters`
 Здесь нам нужно получить пароль админа. Тут у нас LFI, но не обычный, а с фильтром (об этом нам говорит название задания). Нам нужен php filter.
+
 https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась этим сайтом и пэйлоадом оттуда.
 #
 #
