@@ -48,6 +48,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Здесь присутствует важная строка - "include(config.php)"; Именно она подсказывает нам, что нужно вместо файла "login.php", вставить "config.php" (делаем так же, как в прошлый раз). Мы все-таки же получаем строку base64. Все-так же идем в консоль.
 
 ![строка консоли](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_3.png)
+
+Теперь мы видим внутренность ".passwd". Остался последний шаг этого задания. Снова декодировать в base64. 
 #
 #
 ### `Local File Inclusion`
@@ -63,8 +65,6 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 У нас появился файл "index.html", попробуем перейти в этот файл и поищим что-то похожее на флаг. А вот и он.
 
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_3.png)
-
-Теперь мы видим ".passwd". Остался последний шаг этого задания.
 
 # 
 # 
