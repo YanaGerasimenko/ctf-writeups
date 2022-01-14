@@ -49,7 +49,9 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![строка консоли](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_3.png)
 
-Теперь мы видим внутренность ".passwd". Остался последний шаг этого задания. Снова декодировать в base64. 
+Теперь мы видим внутренность ".passwd". Остался последний шаг этого задания. Снова декодировать в base64.
+
+![строка консоли](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_4.png)
 #
 #
 ### `Local File Inclusion`
