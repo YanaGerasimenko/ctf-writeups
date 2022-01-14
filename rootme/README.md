@@ -42,6 +42,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 
 Так как это LFI, можно попытаться постаивить в параметр слово "admin". Но у нас ничего не выйдет, поэтому попытаемся сделать самый легкий вариант LFI'я, это вставить "../", можно просто оставить "../", но я сразу допишу "admin"
 
+![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_2.png)
+
 # 
 # 
 ### `PHP - Serialization`
