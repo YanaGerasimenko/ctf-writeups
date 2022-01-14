@@ -44,6 +44,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Теперь у нас есть содержимое файла, но в формате base64. В этот раз покажу как раскодировать строку через консоль.
 
 ![строка консоли](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_2.png)
+
+Здесь присутствует важная строка - "include(config.php)";
 #
 #
 ### `Local File Inclusion`
