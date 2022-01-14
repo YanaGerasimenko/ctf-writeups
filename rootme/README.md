@@ -52,6 +52,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Теперь мы видим внутренность ".passwd". Остался последний шаг этого задания. Снова декодировать в base64.
 
 ![строка консоли](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_filter_4.png)
+
+Теперь мы получили наш ответ и можем заливать его на сайт.
 #
 #
 ### `Local File Inclusion`
