@@ -32,6 +32,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/ssti_1.png)
 
 --тут позже допишу--
+#
+#
 # 
 # 
 ### `PHP - Serialization`
