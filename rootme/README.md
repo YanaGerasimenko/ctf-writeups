@@ -43,6 +43,8 @@
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_4.png)
 
 Зашли и видим, что у нас вывелся флаг. Так что задание выполнено, заливаем его и радуемся :3
+
+![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_5.png)
 # 
 # 
 ### `Java - Server-side Template Injection`
