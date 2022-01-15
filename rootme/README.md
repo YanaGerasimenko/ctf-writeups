@@ -81,6 +81,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_2.png)
 
 И так, теперь у нас есть исходник страницы. `<?php include("conf.inc.php"); ?>` - дает нам понять, что прочесть нужно именно файл "conf". 
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_3.png)
 # 
 # 
 ### `PHP - Serialization`
