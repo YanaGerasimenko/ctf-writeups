@@ -33,6 +33,10 @@
 Если мы попытаемся загрузить файл расширения ".php". Ничего не выйдет, как показано на скрине.
 
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_2.png)
+
+Пишем самый легкий php код. На вывод файла ".passwd". Но не забываем при загрузке файла сделать расширение - ".php.png".
+
+![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_3.png)
 # 
 # 
 ### `Java - Server-side Template Injection`
