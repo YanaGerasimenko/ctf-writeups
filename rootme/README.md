@@ -14,7 +14,7 @@
 ### `HTML - Source code`
 
 Подсказка дается уже в самом название. Нам нужно зайти в код страницы. Попробуем поискать спрятанный флаг (пароль) и наткнемся на ЭТО:
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/first_task.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/first_task.png)
 # 
 # 
 ### `HTTP - User-agent`
