@@ -25,6 +25,7 @@
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/2_1task.png)
 #
 #
+### `File upload - Double extensions`
 # 
 # 
 ### `Java - Server-side Template Injection`
