@@ -72,6 +72,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 #
 ### `Local File Inclusion - Double encoding`
+Нам нужно найти пароль в исходных файлах сайта. Получается попробуем "php://filter/convert.base64-encode/resource=cv", чтобы прочесть файл.
 # 
 # 
 ### `PHP - Serialization`
