@@ -89,6 +89,10 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_4.png)
 
 Теперь меняем прошлый пэйлоад со слова "cv" на "conf". И получаем все такой же base64 код. Осталось снова декодировать.
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_5.png)
+
+Снова показываю пример декодирования через консоль. А вот и наш обещанный флаг. 
 # 
 # 
 ### `PHP - Serialization`
