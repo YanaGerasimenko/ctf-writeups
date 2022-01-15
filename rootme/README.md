@@ -37,6 +37,12 @@
 Пишем самый легкий php код. На вывод файла ".passwd". Но не забываем при загрузке файла сделать расширение - ".php.png".
 
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_3.png)
+
+И так файл загрузился, об этом нам говорит надпись. А теперь можно перейти в директорию.
+
+![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_4.png)
+
+Зашли и видим, что у нас вывелся флаг. Так что задание выполнено, заливаем его и радуемся :3
 # 
 # 
 ### `Java - Server-side Template Injection`
