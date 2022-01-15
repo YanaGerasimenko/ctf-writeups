@@ -27,6 +27,8 @@
 #
 ### `File upload - Double extensions`
 В задании нужно прочесть ".passwd". А сделать это можно с помощью загрузки файла. Чем мы собственно и займемся.
+
+![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_1.png)
 # 
 # 
 ### `Java - Server-side Template Injection`
