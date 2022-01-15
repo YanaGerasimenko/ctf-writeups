@@ -26,6 +26,7 @@
 #
 #
 ### `File upload - Double extensions`
+В задании нужно прочесть ".passwd". А сделать это можно с помощью загрузки файла. Чем мы собственно и займемся.
 # 
 # 
 ### `Java - Server-side Template Injection`
