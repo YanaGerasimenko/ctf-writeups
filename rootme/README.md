@@ -80,9 +80,13 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_2.png)
 
-И так, теперь у нас есть исходник страницы. `<?php include("conf.inc.php"); ?>` - дает нам понять, что прочесть нужно именно файл "conf". 
+И так, теперь у нас есть исходник страницы. Но с ходу можно сказать, что это все base64. Значит декодируем.
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_3.png)
+
+Декодирую я снова все через консоль. `<?php include("conf.inc.php"); ?>` - дает нам понять, что прочесть нужно именно файл "conf". 
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_4.png)
 # 
 # 
 ### `PHP - Serialization`
