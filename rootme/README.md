@@ -87,6 +87,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Декодирую я снова все через консоль. `<?php include("conf.inc.php"); ?>` - дает нам понять, что прочесть нужно именно файл "conf". 
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_4.png)
+
+Теперь меняем прошлый пэйлоад со слова "cv" на "conf".
 # 
 # 
 ### `PHP - Serialization`
