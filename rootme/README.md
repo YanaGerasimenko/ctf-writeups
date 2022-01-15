@@ -77,6 +77,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_1.png)
 
 И так, теперь мы понимаем что оно реагирует на спец.знаки. Значит используем URL decode, но дублируем кодировку два раза, так как задание дает нам это понять (double).
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_2.png)
 # 
 # 
 ### `PHP - Serialization`
