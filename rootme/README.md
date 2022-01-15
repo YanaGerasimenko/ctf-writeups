@@ -1,5 +1,5 @@
 # :computer: rootme :octocat:
-Здесь Вы можете увтдеть решения заданйи с платформы rootme.
+Здесь Вы можете увидеть решения заданий с платформы rootme.
 ## Категории:
 - [Web категория](#WEBкатегория)
 
@@ -79,6 +79,16 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 И так, теперь мы понимаем что оно реагирует на спец.знаки. Значит используем URL decode, но дублируем кодировку два раза, так как задание дает нам это понять (double).
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_2.png)
+
+И так, теперь у нас есть исходник страницы. Но с ходу можно сказать, что это все base64. Значит декодируем.
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_3.png)
+
+Декодирую я снова все через консоль. `<?php include("conf.inc.php"); ?>` - дает нам понять, что прочесть нужно именно файл "conf". 
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_4.png)
+
+Теперь меняем прошлый пэйлоад со слова "cv" на "conf". И получаем все такой же base64 код. Осталось снова декодировать.
 # 
 # 
 ### `PHP - Serialization`
