@@ -69,7 +69,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 У нас появился файл "index.html", попробуем перейти в этот файл и поищим что-то похожее на флаг. А вот и он.
 
 ![сайт](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_3.png)
-
+#
+#
 # 
 # 
 ### `PHP - Serialization`
