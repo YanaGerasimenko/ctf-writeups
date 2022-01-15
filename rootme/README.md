@@ -79,6 +79,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 И так, теперь мы понимаем что оно реагирует на спец.знаки. Значит используем URL decode, но дублируем кодировку два раза, так как задание дает нам это понять (double).
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/rootme_lfi_double_2.png)
+
+И так, теперь у нас есть исходник страницы. <?php include("conf.inc.php"); ?> - дает нам понять, что прочесть нужно именно файл "conf". 
 # 
 # 
 ### `PHP - Serialization`
