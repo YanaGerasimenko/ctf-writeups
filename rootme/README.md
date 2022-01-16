@@ -52,7 +52,7 @@
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/ssti_1.png)
 
---тут позже допишу--
+-тут позже допишу-
 #
 #
 ### `PHP - Filters`
