@@ -169,6 +169,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 # 
 # 
 ### `JSON Web Token (JWT) - Weak secret`
+![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_1.png)
 В этом задании нам предоставляется страница c "/hello", но надпись страницы всячески намекает, что нам нужно передлать это на "/token".
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_1.png)
 А вот и наш токен. Попробуем проделать с ним те же операции что с предыдущим заданием. И у нас нчиего не выйдет. А все потому, что нужно узнать секрет. Задача уже труднее, но мы можем воспользоваться тулзой, как: jwtcrack, jwt_tool или даже John The Ripper.
