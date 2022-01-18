@@ -169,6 +169,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 # 
 # 
 ### `JSON Web Token (JWT) - Weak secret`
+В этом задании нам предоставляется страница
 # 
 # 
 ##
