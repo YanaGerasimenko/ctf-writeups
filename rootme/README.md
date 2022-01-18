@@ -178,7 +178,9 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 А вот и наш токен. Попробуем проделать с ним те же операции что с предыдущим заданием. И у нас нчиего не выйдет. А все потому, что нужно узнать секрет. Задача уже труднее, но мы можем воспользоваться тулзой, как: jwtcrack, jwt_tool или даже John The Ripper.
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_3.png)
+
 Я использую jwt_tool (на Github нормальная документация). На скрине видно уже конечную команду. Секрет подобрался методом словарного перебора.
+
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_4.png)
 Теперь, давайте быстро сделаем токен через консоль Python. Не хитрыми командами нам удается его создать. Передйем к следующему шагу.
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_5.png)
