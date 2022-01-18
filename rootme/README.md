@@ -168,7 +168,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Сохраняем, перезагружаем страницу и флаг наш :)
 # 
 # 
-
+### `JSON Web Token (JWT) - Weak secret`
 # 
 # 
 ##
