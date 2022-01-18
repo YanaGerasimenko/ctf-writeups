@@ -186,7 +186,9 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Теперь, давайте быстро сделаем токен через консоль Python. Не хитрыми командами нам удается его создать. Передйем к следующему шагу.
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_5.png)
+
 Остался последний шаг, это отправить запрос с токеном. Используем любимый BurpSuite. И не забываем что тут POST запрос.
+
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_6.png)
 Добавляем наш токен в заголовок "Authorization". Теперь мы видим ответ, так что бежим заливать флаг.
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_7.png)
