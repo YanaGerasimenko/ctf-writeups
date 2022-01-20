@@ -116,7 +116,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Снова показываю пример декодирования через консоль. А вот и наш обещанный флаг. 
 #
 #
-
+### `LDAP injection - Authentication`
 # 
 # 
 ### `PHP - Serialization`
