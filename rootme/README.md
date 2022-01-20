@@ -1,5 +1,5 @@
 # :computer: rootme :octocat:
-Здесь Вы можете увидеть решения заданий с платформы rootme
+Здесь Вы можете увидеть решения заданий с платформы rootme (https://www.root-me.org/?page=news&lang=ru)
 ## Категории:
 - [Web категория](#WEBкатегория)
 
