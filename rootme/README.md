@@ -117,6 +117,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 #
 ### `LDAP injection - Authentication`
+Нам предоставляется стараница с аутентификацией.
 # 
 # 
 ### `PHP - Serialization`
