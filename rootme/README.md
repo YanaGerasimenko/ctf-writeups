@@ -131,7 +131,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 А теперь мы получили наш флаг. Но на странице его вроде нет? А все потому что он в коде, зайдите туда и он будет там.
 
-![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/ldap_3.png)
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/ldap3.png)
 
 # 
 # 
