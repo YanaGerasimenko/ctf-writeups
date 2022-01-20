@@ -114,6 +114,9 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/rootme_lfi_double_5.png)
 
 Снова показываю пример декодирования через консоль. А вот и наш обещанный флаг. 
+#
+#
+
 # 
 # 
 ### `PHP - Serialization`
