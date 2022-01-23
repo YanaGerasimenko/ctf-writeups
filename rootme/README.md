@@ -270,8 +270,11 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 `###CISCO - password`
 В данном задании мы получаем txt'шник, в котором видим ряд различных данных. Но давайте не забывать про название таска ведь оно всегда дает нам хинт. Обратимся к txt повнимательней. Видим пароли, вот с ними нам и надо работать.
+
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/cisco_1.png)
+
 Пользуемся сайтом со взломом.
+
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/cisco_2.png)
 
 ![что нам выдает файл](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/cisco_3.png)
