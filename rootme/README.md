@@ -269,6 +269,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 #
 ###`CISCO - password`
+В данном задании мы получаем txt'шник, в котором видим ряд различных данных.
 #
 #
 ### `DNS - zone transfert`
