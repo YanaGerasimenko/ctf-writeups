@@ -268,7 +268,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 А теперь просто переводим в sha1, но ___НЕ ЗАБЫВАЕМ ПЕРЕВЕСТИ В ВЕРХНИЙ РЕГИСТР БУКВЫ MAC АДРЕССА___.
 #
 #
-`CISCO - password`
+###`CISCO - password`
 #
 #
 ### `DNS - zone transfert`
