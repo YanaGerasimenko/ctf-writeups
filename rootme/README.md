@@ -298,3 +298,5 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/ttl_1.png)
 
 Тут довольно много пакетов и наша цель найти TTL. И полистав наши пакеты, можно заметить, что response находится только после TTL=13. Собственно это и будет ответом. К сожалению пришлось рассказать сам флаг.
+#
+#
