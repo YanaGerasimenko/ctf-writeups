@@ -10,7 +10,9 @@
 # 
 ### `JaWT Scratchpad`
 В задании написано, что нужно посмотреть блокнот админа. И давайте дня начала зайдем на сайт.
+
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_1.png)
+
 Теперь понимаем, что нужно авторизоваться. Делаем это и видим наш блокнот, как обычного пользователя.
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_2.png)
 Тепрь заходим в куки и что же тут? Правильно - JWT токен.
