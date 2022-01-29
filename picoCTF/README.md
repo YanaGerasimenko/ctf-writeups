@@ -22,3 +22,4 @@
 И так, путем переборов у нас нашелся пароль. Вы можете видеть его на скрине. Следующий этап - формирование нового токена. используем Питон.
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_6.png)
 И так, у нас все готово, осталось загрузить новый токен в куки и перезагрузить страницу. Собственно все, а вот и наш флаг.
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_7.png)
