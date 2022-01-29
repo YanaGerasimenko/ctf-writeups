@@ -15,24 +15,24 @@
 
 Теперь понимаем, что нужно авторизоваться. Делаем это и видим наш блокнот, как обычного пользователя.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_2.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_2.png)
 
 Тепрь заходим в куки и что же тут? Правильно - JWT токен.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_3.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_3.png)
 
 Теперь разберем его. Понимаем что Base64 часть, мы сможем подменить. А так же есть подписанная часть, вот ее нам нужно сломать.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_4.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_4.png)
 
 Как я поняла, авторы хотят чтобы мы использовали John The Ripper. Но я буду показывать на примере другого инструмента - jwt_tool.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_5.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_5.png)
 
 И так, путем переборов у нас нашелся пароль. Вы можете видеть его на скрине. Следующий этап - формирование нового токена. используем Питон.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_6.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_6.png)
 
 И так, у нас все готово, осталось загрузить новый токен в куки и перезагрузить страницу. Собственно все, а вот и наш флаг.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_7.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_7.png)
