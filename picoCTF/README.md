@@ -18,7 +18,9 @@
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_2.png)
 
 Тепрь заходим в куки и что же тут? Правильно - JWT токен.
+
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_3.png)
+
 Теперь разберем его. Понимаем что Base64 часть, мы сможем подменить. А так же есть подписанная часть, вот ее нам нужно сломать.
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_4.png)
 Как я поняла, авторы хотят чтобы мы использовали John The Ripper. Но я буду показывать на примере другого инструмента - jwt_tool.
