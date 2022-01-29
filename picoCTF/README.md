@@ -14,7 +14,9 @@
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_1.png)
 
 Теперь понимаем, что нужно авторизоваться. Делаем это и видим наш блокнот, как обычного пользователя.
+
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_2.png)
+
 Тепрь заходим в куки и что же тут? Правильно - JWT токен.
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_3.png)
 Теперь разберем его. Понимаем что Base64 часть, мы сможем подменить. А так же есть подписанная часть, вот ее нам нужно сломать.
