@@ -11,7 +11,7 @@
 ### `JaWT Scratchpad`
 В задании написано, что нужно посмотреть блокнот админа. И давайте дня начала зайдем на сайт.
 
-![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoctf/pics/jwt_1.png)
+![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_1.png)
 
 Теперь понимаем, что нужно авторизоваться. Делаем это и видим наш блокнот, как обычного пользователя.
 
