@@ -116,6 +116,9 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Снова показываю пример декодирования через консоль. А вот и наш обещанный флаг. 
 #
 #
+### `SQL injection - Authentication`
+#
+#
 ### `LDAP injection - Authentication`
 Нам предоставляется стараница с аутентификацией. Само название (как и большинство на платформе root me) дает нам понять, что мы имеем дело с LDAP.
 
@@ -210,7 +213,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_6.png)
 
-Добавляем наш токен в заголовок "Authorization". Теперь мы видим ответ, так что бежим заливать флаг.
+Добавляем наш токен в заголовок "Authorization". Теперь мы видим ответ, так что бежим заливать флаг
 
 ![перехваченый запрос](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/weak_7.png)
 
