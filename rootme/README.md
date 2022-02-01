@@ -117,7 +117,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 #
 ### `SQL injection - Authentication`
-
+Название говорит нам о том, что перед нами SQl инъекция.
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_1.png)
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_2.png)
