@@ -122,6 +122,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_1.png)
 
+Перебрав разное, мы видим то, что колонки будут "username".
+
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_2.png)
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_3.png)
