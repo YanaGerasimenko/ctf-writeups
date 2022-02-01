@@ -117,6 +117,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 #
 ### `SQL injection - Authentication`
+
+![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_1.png)
 #
 #
 ### `LDAP injection - Authentication`
