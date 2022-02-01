@@ -116,6 +116,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 Снова показываю пример декодирования через консоль. А вот и наш обещанный флаг. 
 #
 #
+### `SQL injection - Authentication`
 #
 #
 ### `LDAP injection - Authentication`
