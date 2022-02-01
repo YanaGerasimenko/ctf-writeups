@@ -118,7 +118,7 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 #
 ### `SQL injection - Authentication`
 
-Название говорит нам о том, что перед нами SQl инъекция.
+Название говорит нам о том, что перед нами SQl инъекция. А это означает, что мы будем работать с формой. Попробуем пробежаться по стандартным знакам для инъекции.
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_1.png)
 
