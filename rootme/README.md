@@ -132,6 +132,8 @@ https://kmb.cybber.ru/web/lfi/main.html - я воспользовалась эт
 
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_4.png)
 
+Теперь нам нужно использовать (как пример) такой пэйлоад - `' OR username='admin'; --`
+
 ![скрин сайта](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/sql_aut_5.png)
 #
 #
