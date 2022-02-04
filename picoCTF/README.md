@@ -36,3 +36,8 @@
 И так, у нас все готово, осталось загрузить новый токен в куки и перезагрузить страницу. Собственно все, а вот и наш флаг.
 
 ![код страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/picoCTF/pics/jwt_7.png)
+
+
+
+
+## Cryptography категория
