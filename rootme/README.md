@@ -57,6 +57,7 @@
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_2.png)
 
 Открыв ее, пониамем что копаться в ней надолго или мы сможем получить не всю информацию. Но есть другой выход, к примеру git-dumper.
+
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_3.png)
 Пользуемся утилитой и выгружаем файлы в нашу папку на локальном ПК.
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_4.png)
