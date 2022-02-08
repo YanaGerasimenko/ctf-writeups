@@ -53,6 +53,7 @@
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_1.png)
 
 Перебрав различные варианты, понимаем, что то, что нам надо, хранится в папке .git
+
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_2.png)
 Открыв ее, пониамем что копаться в ней надолго или мы сможем получить не всю информацию. Но есть другой выход, к примеру git-dumper.
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_3.png)
