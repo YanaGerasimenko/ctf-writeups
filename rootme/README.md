@@ -47,6 +47,7 @@
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_5.png)
 # 
 # 
+### `Insecure Code Management`
 # 
 # 
 ### `Java - Server-side Template Injection`
