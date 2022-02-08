@@ -47,6 +47,8 @@
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/file_upload_5.png)
 # 
 # 
+# 
+# 
 ### `Java - Server-side Template Injection`
 Название задания говорит нам о том, что это шаблонная инъекция или же 'template injection'. Мы видим форму и сразу понимаем что нужно сделать что-то с ней. Ищем разные пэйлоады. И по методологии, пытаемся подобрать нужный нам шаблон. Я использовала этот репозиторий:
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md
