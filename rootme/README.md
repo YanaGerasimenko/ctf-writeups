@@ -61,6 +61,7 @@
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_3.png)
 
 Пользуемся утилитой и выгружаем файлы в нашу папку на локальном ПК.
+
 ![фото страницы](https://github.com/YanaGerasimenko/ctf-writeups/blob/main/rootme/pics/git_code_4.png)
 А теперь заходим в файл config.php и находим пароль. Декодируем его и получаем ответ.
 
