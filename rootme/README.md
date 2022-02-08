@@ -48,6 +48,7 @@
 # 
 # 
 ### `Insecure Code Management`
+Открыв старинцу начинаем анализировать, где может храниться код.
 # 
 # 
 ### `Java - Server-side Template Injection`
