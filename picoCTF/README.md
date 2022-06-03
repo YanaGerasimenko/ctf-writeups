@@ -59,8 +59,49 @@ Category about cracking apps, binary files and etc.
 # 
 # 
 ### `asm1`
-<+0>:	push   ebp
+asm1:
+		<+0>:	push   ebp				0x8be
+    
+		<+1>:	mov    ebp,esp				ebp = 0x8be	esp = 0x8be
+    
+		<+3>:	cmp    DWORD PTR [ebp+0x8],0x71c	if asm1(0x8be) > 0x71c == true (true) 		jump to 37 line
+    
+	<+10>:	jg     0x512 <asm1+37>		
+  
+	<+12>:	cmp    DWORD PTR [ebp+0x8],0x6cf
+  
+	<+19>:	jne    0x50a <asm1+29>
+  
+	<+21>:	mov    eax,DWORD PTR [ebp+0x8]
+  
+	<+24>:	add    eax,0x3
+  
+	<+27>:	jmp    0x529 <asm1+60>
+  
+	<+29>:	mov    eax,DWORD PTR [ebp+0x8]
+  
+	<+32>:	sub    eax,0x3
+  
+	<+35>:	jmp    0x529 <asm1+60>
+  
+		<+37>:	cmp    DWORD PTR [ebp+0x8],0x8be	if 0x8be != 0x8be == true (false)		jump to 46 line	
+    
+		<+44>:	jne    0x523 <asm1+54>			
+    
+		<+46>:	mov    eax,DWORD PTR [ebp+0x8]		eax = 0x8be
+    
+		<+49>:	sub    eax,0x3				eax = 0x8be - 0x3 = 0x8bb
+    
+	<+52>:	jmp    0x529 <asm1+60>		
+  
+	<+54>:	mov    eax,DWORD PTR [ebp+0x8]		
+  
+	<+57>:	add    eax,0x3			
+  
+		<+60>:	pop    ebp			
+    
+		<+61>:	ret    
 
-<+1>:	mov    ebp,esp
 
-<+3>:	cmp    DWORD PTR [ebp+0x8],0x71c	
+
+	Answer: 0x8bb
