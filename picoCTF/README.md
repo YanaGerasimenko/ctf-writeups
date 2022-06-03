@@ -59,3 +59,6 @@ Category about cracking apps, binary files and etc.
 # 
 # 
 ### `asm1`
+<+0>:	push   ebp				
+<+1>:	mov    ebp,esp				
+<+3>:	cmp    DWORD PTR [ebp+0x8],0x71c	
