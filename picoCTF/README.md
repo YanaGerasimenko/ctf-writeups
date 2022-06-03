@@ -55,6 +55,6 @@
 # 
 ## Reverse категория
 #### ___Описание заданий с категорий___:
-
+Category about cracking apps, binary files and etc.
 # 
 # 
