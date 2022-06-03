@@ -59,7 +59,7 @@ Category about cracking apps, binary files and etc.
 # 
 # 
 ### `asm1`
-asm1:
+	asm1:
 		<+0>:	push   ebp				0x8be
     
 		<+1>:	mov    ebp,esp				ebp = 0x8be	esp = 0x8be
